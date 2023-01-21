@@ -4,7 +4,7 @@ I am an aspiring back-end developer who enjoys connecting the dots: be it ideas 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-chaar&hide=prs,contribs&count_private=true&show_icons=true&theme=tokyonight" alt="Omar Chaar's github stats">
+  <img src="https://bellomia-readme-stats.vercel.app/api?username=omar-chaar&hide=prs,contribs&count_private=true&show_icons=true&theme=tokyonight" alt="Omar Chaar's github stats">
 </p>
 
 
