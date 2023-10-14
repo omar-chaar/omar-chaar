@@ -2,8 +2,10 @@
 
 Hi, I'm Omar 👋 a Computer Science graduate.
 
-I am an ambitious Java developer. I enjoy connecting the dots, whether it be ideas from different disciplines or different technologies within a project.
-Not only that, I'm willing and highly motivated to adapt and learn new things, to evolve and with my organization as a mutual and cooperative benefit.
+I'm a motivated developer who enjoys bringing things together; like combining ideas from different areas or using various technologies in a project.
+My strong technical skills are backed by a solid academic background in algorithms, data structures, and object-oriented programming. 
+Additionally, I'm eager and dedicated to knowledge that contributes to my personal and professional growth because I highly believe that software engineering requires  a life-learning process commitment.
+
 
 <p align="center">
   <img src="https://bellomia-readme-stats.vercel.app/api?username=omar-chaar&hide=prs,contribs&count_private=true&show_icons=true&theme=tokyonight" alt="Omar Chaar's github stats">
